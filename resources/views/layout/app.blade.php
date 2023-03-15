@@ -37,9 +37,6 @@
     {{-- BOX ICONS --}}
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
 
-    {{-- CSS --}}
-    {{-- <link rel="stylesheet" href="{{asset('css/style.css')}}"> --}}
-
     {{-- GOOGLE FONT --}}
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@48,400,0,0" />

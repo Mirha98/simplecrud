@@ -32,7 +32,7 @@
                     );
                     setTimeout(() => {
                         location.reload();
-                    }, 2500);
+                    }, 2300);
                 }
             },
             errors: function(error){
